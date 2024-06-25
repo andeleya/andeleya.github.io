@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Andrew Mwanza Zulu - Academic"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://azulu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Andrew Zulu"
+description              : &description "personal academic website"
+url                      : https://andeleya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
